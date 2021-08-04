@@ -1,6 +1,6 @@
 /*
 Author: Hieu Doan
-StudentID: hmd53
+Date: 08/03/2021
 */
 #include <stdio.h>
 #include <stdlib.h>
